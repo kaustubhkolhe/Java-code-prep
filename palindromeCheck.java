@@ -1,3 +1,5 @@
+// Question:Check if string is palindrom
+
 //Program to check if the given string is palindrome or not.
 //This program returns true or false
 public class palindromeCheck {
