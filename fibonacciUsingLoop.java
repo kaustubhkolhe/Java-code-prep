@@ -5,7 +5,7 @@ Question: Nth fibonacci number using loop
 class Main {
     public static void main(String[] args) {
 
-        System.out.println(fibo(6));
+        System.out.println(fibo(8));
 
     }
 
